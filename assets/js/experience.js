@@ -126,7 +126,7 @@ const mentor = [
   },
   {
     title: "Moksha Orphanage and Old Age Home",
-    subtitle: "Volenteer",
+    subtitle: "Volunteer",
     image: "assets/images/experience-page/moksha.jpg",
     desp: "Spent time with childen and senior citizen",
     href: "http://www.moksha-oldagehome.org/",

@@ -4,6 +4,21 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
+    title: "Micro-CT Image Segmentation and 3D Reconstruction of Sealed Historical Books",
+    authors:
+      "This research was carried out under supervision of Dr. Geroge Knopf at Western University, Ontario, CA",
+    conferences:
+      "The outcome of research was possitive, most of the data inside sealed historical book was extracted and represented into a 3D-Space",
+    researchYr: 2022,
+    citebox: "popup2",
+    image: "assets/images/research-page/mitacs.png",
+    citation: {
+     },
+    abstract:
+      "Historical books are often very fragile and extensively damaged due to material decomposition and the effects of the storage environment (e.g., humidity, mold). Opening the physical document to reveal the text and images will often result in irreparable damage and the loss of critical information. However, we propose a technique that can safely digitize these fragile sealed documents using micro-CT scanning and other non-destructive imaging techniques.",
+    absbox: "absPopup2",
+  },
+  {
     title: "Machine Learning based Extraction of Electrical Substations from High Resolution Satellite Data: Outcome of the ICETCI 2021 Challenge",
     authors:
       "Sreenivasan G; Anju Bajpai; Prakasa Rao D S; Girish Kumar T P; Naman Garg",
@@ -34,6 +49,7 @@ const research = [
       "We will implement the technique of fitting a plate to fix the fractured cheekbone  to redefine the lost symmetry of a face owing to a fracture of the cheekbone in an accident. The size of the plate that will help to fix the fractured cheekbone will be determined so that custom plates can be built to bring back the face to perfect symmetry",
     absbox: "absPopup2",
   },
+  
 
   
 ];
